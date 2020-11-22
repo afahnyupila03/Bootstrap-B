@@ -1,0 +1,45 @@
+/* Typography */
+.font-basic {
+    font-family: 'Basic', sans-serif;
+}
+.font-bubblegum {
+    font-family: 'Bubblegum Sans', cursive;
+}
+.font-cuprum {
+    font-family: 'Cuprum', sans-serif;
+}
+.font-inder {
+    font-family: 'Inder', sans-serif;
+}
+
+/* Color Template */
+.primary-color {
+    color: #B2BEB5;
+}
+.color-second {
+    color: #F5F5F5;
+}
+.destiny-color {
+    color: #ED872D;
+}
+.text-white {
+    color: white;
+}
+
+/* Font sizes */
+.font-size-19 {
+    font-size: 19px;
+}
+.font-size-25 {
+    font-size: 25px;
+}
+
+/* P's */
+p {
+    font-size: 19px;
+}
+
+/* bottom-nav links */
+.col-lg-3 a {
+    color: white
+}
